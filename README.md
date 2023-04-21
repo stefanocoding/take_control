@@ -1,7 +1,7 @@
-Control your Apogee Duet on Linux! 
+Control your Apogee Duet (USB) on Linux! 
 ===
 
-This Python script and Apogee Duet speak the same language :smile:
+This Python script and Apogee Duet (USB) speak the same language :smile:
 
 The interface works great out of the box using ALSA for recording and playing. However, I didn't find a way to control the settings like I was able to do on macOS.
 
